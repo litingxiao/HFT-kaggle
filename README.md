@@ -4,5 +4,5 @@
 
 This repo contains: 
 - Training set, test set
-- Jupyter notebooks for data exploration, model training, and model selection
+- Jupyter notebook for data exploration, model training, and model selection
 - Predictions from various models
