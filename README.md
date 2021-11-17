@@ -8,3 +8,4 @@ This repo contains:
 - Training set, test set
 - Jupyter notebook for data exploration, model training, and model selection
 - Predictions from various models
+- Project report
