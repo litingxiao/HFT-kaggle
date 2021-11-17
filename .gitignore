@@ -1,0 +1,4 @@
+.DS_store
+.gitattributes
+__pycache__/
+.ipynb_checkpoints
