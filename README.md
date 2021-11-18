@@ -2,6 +2,8 @@
 
 This repo is for **Caltech CS155: Machine Learning and Data Mining** (2020 Winter) miniproject1. 
 
+Kaggle link: https://www.kaggle.com/c/caltech-cs155-2020
+
 **Goal**: Use 500ms aggregate high frequency market order book data of a futures contract to predict the probabilities of future 1-second price movements.
 
 This repo contains: 
